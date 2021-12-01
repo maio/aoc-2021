@@ -1,0 +1,9 @@
+first 4 lines = [176, 184, 188, 142]
+...
+last 4 lines = [8306, 8317, 8320, 8341]
+
+first windows to compare: ([176, 184, 188], [184, 188, 142])
+...
+last windows to compare: ([8306, 8317, 8320], [8317, 8320, 8341])
+
+result = 1618
