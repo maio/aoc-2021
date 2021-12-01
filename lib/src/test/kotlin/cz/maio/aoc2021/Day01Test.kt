@@ -25,9 +25,7 @@ class Day01Test {
 
     @Test
     fun `part 2`() {
-        val windows = (0..lines.size - 3).map { n ->
-            lines.drop(n).take(3)
-        }
+        val windows = lines.windowed(size = 3, step = 1)
 
         val windowsToCompare = windows.zip(windows.drop(1))
 
