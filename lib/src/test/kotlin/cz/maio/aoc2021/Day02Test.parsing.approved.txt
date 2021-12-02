@@ -1,0 +1,1999 @@
+Command(direction=forward, value=6)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=8)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=5)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=7)
+
+Command(direction=up, value=1)
+
+Command(direction=up, value=2)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=up, value=6)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=7)
+
+Command(direction=up, value=6)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=3)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=3)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=1)
+
+Command(direction=up, value=2)
+
+Command(direction=up, value=2)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=5)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=6)
+
+Command(direction=up, value=4)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=9)
+
+Command(direction=up, value=5)
+
+Command(direction=up, value=5)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=7)
+
+Command(direction=up, value=1)
+
+Command(direction=up, value=3)
+
+Command(direction=forward, value=8)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=6)
+
+Command(direction=up, value=8)
+
+Command(direction=up, value=9)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=5)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=2)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=8)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=8)
+
+Command(direction=up, value=4)
+
+Command(direction=up, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=6)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=7)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=1)
+
+Command(direction=up, value=8)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=9)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=7)
+
+Command(direction=up, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=6)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=9)
+
+Command(direction=up, value=4)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=6)
+
+Command(direction=up, value=4)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=1)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=7)
+
+Command(direction=up, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=7)
+
+Command(direction=up, value=6)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=3)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=3)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=5)
+
+Command(direction=up, value=4)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=2)
+
+Command(direction=up, value=2)
+
+Command(direction=up, value=4)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=3)
+
+Command(direction=up, value=6)
+
+Command(direction=down, value=6)
+
+Command(direction=up, value=6)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=3)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=6)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=3)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=1)
+
+Command(direction=up, value=2)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=8)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=4)
+
+Command(direction=down, value=6)
+
+Command(direction=up, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=7)
+
+Command(direction=up, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=5)
+
+Command(direction=up, value=3)
+
+Command(direction=up, value=2)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=7)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=6)
+
+Command(direction=up, value=5)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=7)
+
+Command(direction=up, value=3)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=8)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=6)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=4)
+
+Command(direction=up, value=3)
+
+Command(direction=down, value=6)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=9)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=9)
+
+Command(direction=up, value=8)
+
+Command(direction=up, value=1)
+
+Command(direction=up, value=7)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=up, value=3)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=6)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=9)
+
+Command(direction=up, value=5)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=5)
+
+Command(direction=up, value=3)
+
+Command(direction=up, value=3)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=3)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=9)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=7)
+
+Command(direction=up, value=6)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=9)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=5)
+
+Command(direction=up, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=8)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=1)
+
+Command(direction=up, value=1)
+
+Command(direction=up, value=9)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=7)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=1)
+
+Command(direction=up, value=2)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=5)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=2)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=1)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=4)
+
+Command(direction=up, value=8)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=6)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=9)
+
+Command(direction=up, value=4)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=2)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=2)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=2)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=7)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=1)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=6)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=forward, value=5)
+
+Command(direction=up, value=5)
+
+Command(direction=up, value=3)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=8)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=2)
+
+Command(direction=up, value=5)
+
+Command(direction=forward, value=8)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=5)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=4)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=1)
+
+Command(direction=forward, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=7)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=9)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=8)
+
+Command(direction=forward, value=6)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=8)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=9)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=6)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=2)
+
+Command(direction=up, value=2)
+
+Command(direction=down, value=5)
+
+Command(direction=forward, value=1)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=9)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=6)
+
+Command(direction=down, value=3)
+
+Command(direction=forward, value=7)
+
+Command(direction=down, value=6)
+
+Command(direction=up, value=3)
+
+Command(direction=up, value=7)
+
+Command(direction=up, value=5)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=1)
+
+Command(direction=forward, value=7)
+
+Command(direction=up, value=9)
+
+Command(direction=forward, value=3)
+
+Command(direction=up, value=1)
+
+Command(direction=down, value=3)
+
+Command(direction=down, value=4)
+
+Command(direction=forward, value=4)
+
+Command(direction=up, value=3)
+
+Command(direction=down, value=6)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=4)
+
+Command(direction=down, value=9)
+
+Command(direction=down, value=6)
+
+Command(direction=forward, value=4)
+
+Command(direction=forward, value=3)
+
+Command(direction=down, value=3)
+
+Command(direction=up, value=7)
+
+Command(direction=down, value=9)
+
+Command(direction=forward, value=8)
