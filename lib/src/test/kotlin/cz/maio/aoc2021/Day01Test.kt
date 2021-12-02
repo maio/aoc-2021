@@ -27,7 +27,7 @@ class Day01Test {
     fun `part 2`() {
         val windows = lines.windowed(size = 3, step = 1)
 
-        val windowsToCompare = windows.zip(windows.drop(1))
+        val windowsToCompare = windows.zipWithNext()
 
         val count = windowsToCompare.count { (previous, current) ->
             current.sum() > previous.sum()
