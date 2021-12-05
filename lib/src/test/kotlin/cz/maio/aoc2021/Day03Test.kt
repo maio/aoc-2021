@@ -76,7 +76,7 @@ fun List<Int>.toDecimal() = reversed().mapIndexed { index, i ->
     i * 2.toDouble().pow(index)
 }.sum().toInt()
 
-fun <E> List<E>.frequencies() = groupBy { it }.mapValues { it.value.count() }
+fun <E> List<E>.frequencies() = groupingBy { it }.eachCount()
 fun <T> List<List<T>>.transpose() = (0 until this[0].size).map { colId ->
     this.map { it[colId] }
 }
