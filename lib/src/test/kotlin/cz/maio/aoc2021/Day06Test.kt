@@ -5,6 +5,8 @@ import org.approvaltests.Approvals
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 
+private data class AgeCount(val age: Int, val countInGroup: Long)
+
 class Day06Test {
     private val squidGroups = resourceLines("/input-06.txt")
         .first()
@@ -20,17 +22,15 @@ class Day06Test {
             when (age) {
                 // spawning
                 0 -> listOf(
-                    6 to count, // reset existing
-                    8 to count  // spawn new
+                    AgeCount(6, count), // reset existing
+                    AgeCount(8, count)  // spawn new
                 )
-                else -> listOf((age - 1) to count)
+                else -> listOf(AgeCount(age - 1, count))
             }
         }
 
         nextGenEntries
-            // group by age
-            .groupBy({ it.first }, { value -> value.second })
-            // sum counts in each age group
+            .groupBy({ it.age }, { value -> value.countInGroup })
             .mapValues { it.value.sum() }
     }
 
