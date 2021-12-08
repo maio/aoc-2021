@@ -1,0 +1,399 @@
+Entry(signals=[[b, c, d, e, f], [c, d, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, c, d, e, f, g], [b, c, d, e, g], [a, b, c, g], [a, b, c, d, e, g], [c, g], [a, b, d, e, g]], outputs=[[b, c, d, e, g], [a, c, d, e, f, g], [a, b, c, d, e, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, c, e, f, g], [b, c, d, e, f, g], [b, e, f], [a, b, c, d, e, g], [a, b, c, d, e], [a, b, d, f], [a, b, c, e, f], [a, b, c, d, e, f, g], [b, f], [a, b, c, d, e, f]], outputs=[[a, b, c, d, e, f, g], [a, c, e, f, g], [a, c, e, f, g], [a, b, d, f]])
+
+Entry(signals=[[b, c, d, e, f, g], [a, b, d, e], [a, b, c, e, f, g], [a, b, c, d, e, f], [b, c, d], [a, b, c, e, f], [b, d], [a, b, c, d, e, f, g], [a, b, c, d, f], [a, c, d, f, g]], outputs=[[a, b, c, d, e, f], [a, b, c, d, e, f], [a, b, c, d, e, f], [a, b, d, e]])
+
+Entry(signals=[[a, b, e, f, g], [d, e], [a, c, d, f, g], [a, c, d, e, f, g], [a, b, c, d, f, g], [a, c, d, e], [b, c, d, e, f, g], [d, e, g], [a, d, e, f, g], [a, b, c, d, e, f, g]], outputs=[[d, e], [a, b, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[b, f, g], [a, b, c, d, e, g], [f, g], [a, b, c, f, g], [a, b, c, d, f, g], [a, b, c, e, f], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, g], [a, d, f, g]], outputs=[[a, b, c, d, e, g], [a, b, c, d, e, g], [b, c, d, e, f, g], [a, b, c, f, g]])
+
+Entry(signals=[[a, b, f, g], [a, b, c, d, f, g], [a, b, c, d, e, f, g], [f, g], [c, f, g], [a, b, c, d, f], [a, b, c, d, e, f], [b, c, d, f, g], [a, c, d, e, f, g], [b, c, d, e, g]], outputs=[[a, c, d, e, f, g], [a, b, c, d, e, f], [a, b, c, d, e, f], [a, b, c, d, f]])
+
+Entry(signals=[[c, d, g], [b, d, e, f, g], [a, b, d, e, f, g], [c, d, e, f, g], [c, d], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, f, g], [a, c, e, f, g], [b, c, d, e]], outputs=[[b, d, e, f, g], [c, d], [a, c, e, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[b, d, e, f, g], [a, b, c, d, e, f, g], [c, e, g], [a, b, c, e, f, g], [a, c, d, e, f, g], [a, b, c, e], [a, b, c, d, f, g], [c, e], [b, c, e, f, g], [a, b, c, f, g]], outputs=[[a, b, c, d, e, f, g], [a, b, c, e, f, g], [a, b, c, d, f, g], [a, b, c, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f], [a, b, c, f, g], [d, g], [b, c, d, f, g], [d, e, f, g], [b, c, d, e, f], [b, d, g], [b, c, d, e, f, g]], outputs=[[b, c, d, f, g], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e], [a, b, d, e, f, g], [a, c, d, e, g], [a, c, g], [c, d, f, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g], [a, b, c, e, f, g], [c, g], [a, d, e, f, g]], outputs=[[a, d, e, f, g], [a, c, d, e, g], [a, b, c, d, e], [a, b, c, d, e]])
+
+Entry(signals=[[b, c, e, f, g], [a, b, c, d, e, f, g], [a, b, c, e, f], [b, c, d, f, g], [e, f, g], [a, b, d, e, f, g], [a, b, c, d, f, g], [c, d, e, g], [e, g], [b, c, d, e, f, g]], outputs=[[a, b, c, e, f], [c, d, e, g], [a, b, c, e, f], [a, b, c, d, f, g]])
+
+Entry(signals=[[b, d, g], [a, b, c, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, g], [a, b, c, e, g], [d, g], [b, c, d, e, f, g], [a, b, c, d, f], [a, d, e, g]], outputs=[[a, b, c, d, e, g], [a, b, c, d, e, g], [a, d, e, g], [a, b, c, d, f]])
+
+Entry(signals=[[a, b, c, e, f], [a, f, g], [a, c, e, f, g], [a, c, d, e, g], [f, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, f, g], [a, c, d, e, f, g], [d, e, f, g]], outputs=[[a, c, d, e, g], [a, b, c, d, f, g], [a, f, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[a, b, d, g], [a, b, c, e, f, g], [a, g], [a, b, d, e, f, g], [a, b, c, d, e, f], [a, b, d, e, f], [a, b, c, d, e, f, g], [c, d, e, f, g], [a, d, e, f, g], [a, e, g]], outputs=[[a, d, e, f, g], [c, d, e, f, g], [a, b, d, e, f], [a, b, d, e, f]])
+
+Entry(signals=[[a, c, d, f, g], [a, b, d, e, f, g], [b, c, d, e, f, g], [b, c, d, e, g], [a, b, c, e], [a, c, d, e, g], [a, b, c, d, e, g], [a, e, g], [a, e], [a, b, c, d, e, f, g]], outputs=[[b, c, d, e, f, g], [a, b, c, d, e, f, g], [b, c, d, e, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, c, d, f, g], [b, c, d, e, f], [a, b], [a, b, c, d, e, f, g], [a, b, e, f], [a, b, c, d, f], [b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f], [a, b, c]], outputs=[[a, b, c], [a, b, c], [a, b, c, d, e, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, g], [a, d, e, f], [a, f], [a, b, f], [a, b, c, d, f, g], [a, b, e, f, g], [a, b, d, e, g], [b, c, e, f, g], [a, b, d, e, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [a, f], [a, b, c, d, e, f, g], [a, b, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, e, f, g], [a, b, e, f, g], [a, b, c, e, g], [c, g], [a, b, c, d, e], [a, b, c, d, f, g], [a, c, g], [c, e, f, g]], outputs=[[a, b, c, e, f, g], [a, c, g], [a, b, c, e, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[a, c, d, f, g], [a, b, c, d, e, f, g], [a, e], [b, c, e, f, g], [a, d, e, g], [a, b, c, d, f, g], [a, e, f], [a, b, c, d, e, f], [a, c, d, e, f, g], [a, c, e, f, g]], outputs=[[a, d, e, g], [b, c, e, f, g], [a, d, e, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[b, c, d, g], [a, c, g], [a, b, c, e, f, g], [a, b, c, d, e, f], [c, g], [a, c, d, f, g], [a, b, c, d, e, f, g], [a, d, e, f, g], [a, b, c, d, f], [a, b, c, d, f, g]], outputs=[[a, b, c, d, f], [b, c, d, g], [b, c, d, g], [c, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, e], [a, e, f], [c, d, e, f, g], [a, b, c, d, f], [a, c, d, e, f], [a, b, c, e, f, g], [a, b, d, e], [a, b, c, d, f, g], [a, b, c, d, e, f]], outputs=[[a, b, c, d, e, f, g], [a, b, c, e, f, g], [a, e], [a, e]])
+
+Entry(signals=[[a, b, e, f], [a, b, c, d, e, g], [a, c, d, e, f], [a, b, c, d, e, f, g], [a, f], [c, d, e, f, g], [a, b, c, d, e], [a, b, c, d, e, f], [a, d, f], [a, b, c, d, f, g]], outputs=[[a, b, e, f], [a, b, c, d, e], [a, d, f], [c, d, e, f, g]])
+
+Entry(signals=[[a, d, e, f, g], [a, c, d, f, g], [a, c, d, e], [a, e], [b, d, e, f, g], [a, e, g], [a, c, d, e, f, g], [a, b, c, e, f, g], [a, b, c, d, f, g], [a, b, c, d, e, f, g]], outputs=[[a, c, d, f, g], [a, b, c, d, f, g], [b, d, e, f, g], [a, e]])
+
+Entry(signals=[[c, d, e, f], [a, b, c, d, f, g], [b, c, e], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [a, b, c, d, e], [a, b, c, d, f], [c, e], [a, b, d, e, g], [a, b, c, e, f, g]], outputs=[[a, b, c, e, f, g], [c, e], [a, b, c, e, f, g], [a, b, c, d, f]])
+
+Entry(signals=[[a, b, d, e, f, g], [a, b, d], [a, b, c, d, e, f, g], [b, d, e, f, g], [a, b, c, d, e, f], [a, b, d, e, g], [b, c, d, e, f, g], [a, b, f, g], [a, c, d, e, g], [a, b]], outputs=[[a, c, d, e, g], [b, c, d, e, f, g], [b, d, e, f, g], [b, d, e, f, g]])
+
+Entry(signals=[[b, c, d, e, f, g], [a, c], [c, d, e, f, g], [a, c, d, e, f, g], [a, c, d, g], [a, b, e, f, g], [a, c, e, f, g], [a, b, c, d, e, f, g], [a, c, e], [a, b, c, d, e, f]], outputs=[[b, c, d, e, f, g], [a, c], [a, c, e, f, g], [a, b, e, f, g]])
+
+Entry(signals=[[a, d, f, g], [a, b, d, e, f, g], [a, b, c, d, e, f, g], [d, f], [a, b, c, d, e, g], [a, b, c, d, e, f], [d, e, f], [b, d, e, f, g], [a, b, d, e, g], [b, c, e, f, g]], outputs=[[a, b, d, e, f, g], [d, f], [a, b, c, d, e, f, g], [b, d, e, f, g]])
+
+Entry(signals=[[a, c, e, f], [b, c, e], [a, b, c, d, e, f], [a, b, d, e, f, g], [a, b, d, e, f], [a, b, c, d, e, f, g], [a, b, c, d, e], [b, c, d, e, f, g], [a, b, c, d, g], [c, e]], outputs=[[a, b, d, e, f, g], [a, b, d, e, f], [a, b, c, d, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[b, c, d, e, f], [a, b, c, e, f, g], [b, g], [b, d, f, g], [b, c, d, e, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, c, d, e, g], [b, c, g], [a, b, c, d, e, f]], outputs=[[b, c, d, e, f], [b, c, d, e, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, e, g], [a, c, f, g], [a, b, c, e, f, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d, e, g], [f, g], [b, c, e, f, g], [b, c, d, e, f], [b, f, g]], outputs=[[a, c, f, g], [a, b, c, d, e, g], [a, b, c, d, e, g], [b, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c, g], [a, b, c, d, e, f], [a, b, c, d, f, g], [a, g], [a, b, d, f, g], [a, b, c, d, f], [a, d, g], [b, d, e, f, g], [a, c, d, e, f, g]], outputs=[[a, b, c, d, f], [a, b, c, d, e, f], [a, b, c, d, f], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, c, d, e, f], [a, b, d, e, f, g], [a, c, d, e, f, g], [b, c, e, f, g], [a, c, d, g], [c, d, e, f, g], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [d, g], [d, f, g]], outputs=[[a, c, d, g], [a, c, d, e, f, g], [a, c, d, e, f, g], [b, c, e, f, g]])
+
+Entry(signals=[[a, c, e, f, g], [c, d, f], [d, f], [a, c, d, e, f], [a, b, c, d, f, g], [a, c, d, e, f, g], [d, e, f, g], [a, b, c, d, e], [a, b, c, e, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, e, f, g], [a, b, c, d, e], [a, b, c, d, e, f, g], [a, b, c, d, e]])
+
+Entry(signals=[[a, c, d, e, f], [a, c, d, e, f, g], [a, b, c, e, f], [c, d, e], [a, b, d, e, f, g], [a, d, e, f, g], [a, c, d, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [c, d]], outputs=[[a, b, d, e, f, g], [a, c, d, g], [c, d, e], [a, c, d, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [c, d, e, f, g], [a, b, c, d, e, f], [a, c, d, e, f], [a, b, c, d, e], [a, b, c, d, e, g], [a, b, c, e, f, g], [a, f], [a, b, d, f], [a, e, f]], outputs=[[a, b, c, d, e, f, g], [a, f], [a, b, c, d, e, f], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, b, d, f, g], [a, b, g], [a, b], [b, d, e, f, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, d, e, f, g], [a, c, d, f, g], [a, b, e, f]], outputs=[[a, b], [a, b, g], [a, c, d, f, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[c, e], [a, c, d, f, g], [a, b, c, d, e, g], [c, d, e, f, g], [c, d, e], [b, c, d, e, f, g], [b, d, e, f, g], [b, c, e, f], [a, b, c, d, e, f, g], [a, b, d, e, f, g]], outputs=[[b, c, e, f], [a, b, c, d, e, g], [c, d, e, f, g], [c, d, e]])
+
+Entry(signals=[[c, d, e], [a, b, c, d, e, g], [a, b, c, d, e, f], [a, b, c, d, f, g], [b, c, e, f, g], [b, c, d, e, f], [d, e], [a, b, c, d, e, f, g], [a, b, c, d, f], [a, d, e, f]], outputs=[[a, b, c, d, e, f], [d, e], [c, d, e], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, c, d, g], [b, d, e, f, g], [a, b, d, e, f], [b, c, e, f, g], [b, c, d, e, f, g], [a, b, c, e, f, g], [d, e, g], [a, c, d, e, f, g], [d, g]], outputs=[[a, b, d, e, f], [b, c, e, f, g], [a, c, d, e, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, e, f], [a, c, d, e, f, g], [a, b, d, e], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [b, c, d, e, f], [a, b, c, e, f, g], [b, c, d, f, g], [d, e], [d, e, f]], outputs=[[a, b, c, e, f, g], [a, b, d, e], [b, c, d, f, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[b, e, f], [a, b, f, g], [b, f], [a, b, d, e, f], [a, b, c, d, e, g], [b, c, d, e, f, g], [a, c, d, e, f], [a, b, d, e, f, g], [a, b, d, e, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, d, e, g], [a, c, d, e, f], [a, b, d, e, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, f, g], [a, b, c, e, f, g], [a, b, c, d, e, g], [a, c, d, e, f, g], [b, e, f, g], [a, c, e, f, g], [a, b, c, d, e, f, g], [b, c, g], [a, b, c, d, f], [b, g]], outputs=[[a, b, c, d, e, g], [a, b, c, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, f]])
+
+Entry(signals=[[a, c, d, e, f, g], [a, b, c, e, f, g], [d, g], [a, b, c, e, g], [c, d, g], [a, b, d, g], [a, b, c, d, e, g], [b, c, d, e, g], [a, b, c, d, e, f, g], [b, c, d, e, f]], outputs=[[a, b, c, e, f, g], [a, b, c, e, f, g], [a, c, d, e, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d, e, f, g], [a, d, e], [b, c, d, e, f, g], [a, b, c, d, e, f], [a, d], [b, d, e, f, g], [a, c, e, f, g], [a, b, d, g]], outputs=[[a, b, d, e, f, g], [a, c, e, f, g], [a, b, d, g], [a, b, d, g]])
+
+Entry(signals=[[a, d], [a, c, d, f], [a, b, c, d, e], [a, b, c, e, f, g], [a, b, d, e, f, g], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [b, c, d, e, g], [a, b, c, e, f], [a, b, d]], outputs=[[a, b, d, e, f, g], [a, c, d, f], [a, b, d, e, f, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[a, b, d, f, g], [a, c, d, e, f, g], [a, d, e, f, g], [b, d, f], [b, c, d, e, f, g], [b, f], [a, b, c, d, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, e, f]], outputs=[[b, f], [a, b, c, d, g], [a, b, c, d, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [a, f], [a, b, e, f], [a, c, d, e, f], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [b, c, d, e, f], [a, d, f], [a, c, d, e, g]], outputs=[[a, b, e, f], [a, b, c, d, f, g], [a, c, d, e, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, d], [a, b, c, d, e, f, g], [a, b, c, f, g], [a, d, e, g], [a, b, d, f, g], [a, b, c, d, e, f], [b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, d], [b, d, e, f, g]], outputs=[[a, b, c, d, e, f], [b, c, d, e, f, g], [a, b, c, d, e, f], [b, c, d, e, f, g]])
+
+Entry(signals=[[b, c, d, f, g], [a, c, d, e], [a, d, e, f, g], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, e, f, g], [a, b, d, e, f, g], [a, c], [a, c, f], [a, c, d, f, g]], outputs=[[a, c, d, f, g], [a, b, d, e, f, g], [a, b, d, e, f, g], [a, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [a, b, d, e, f, g], [a, b, c, g], [a, b, d, f, g], [a, c, d, e, f], [a, b, c, d, e, f, g], [a, c, d, f, g], [c, g], [c, d, g], [b, c, d, e, f, g]], outputs=[[a, b, d, f, g], [a, c, d, e, f], [a, b, c, g], [a, b, d, f, g]])
+
+Entry(signals=[[b, c, d, e, g], [a, b, c, d], [a, c, g], [a, c], [a, b, e, f, g], [b, c, d, e, f, g], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, e, g], [a, b, c, d, e, g]], outputs=[[a, b, c, e, g], [a, b, c, d, e, f, g], [a, b, e, f, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, f, g], [a, d, e, g], [b, c, d, e, f, g], [d, g], [b, d, g], [a, b, c, d, e, f, g], [a, b, c, d, g], [a, b, c, d, e, f], [a, b, c, d, e], [a, b, c, d, e, g]], outputs=[[b, d, g], [a, b, c, d, g], [a, b, c, d, e, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[d, g], [b, d, e, g], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [a, d, e, f, g], [a, b, c, d, f, g], [a, b, d, e, f, g], [a, c, e, f, g], [d, f, g], [a, b, d, e, f]], outputs=[[a, c, e, f, g], [a, b, d, e, f, g], [a, b, d, e, f, g], [a, c, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f], [a, b, c, d, g], [a, c, e, f], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d, e], [a, b, d, e, f], [b, c, d, e, f, g], [c, e], [b, c, e]], outputs=[[a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, e], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, e, f], [a, d, e, f, g], [a, c, d, f, g], [c, e, f, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g], [a, b, d, e, g], [e, f], [a, b, c, d, e, f], [a, b, c, d, f, g]], outputs=[[a, b, c, d, f, g], [a, d, e, f, g], [c, e, f, g], [a, e, f]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, e, f], [a, c, d, e, f, g], [b, c, e, f, g], [a, b, c, d, e, f], [a, b, c, f, g], [b, d, e, g], [b, e], [c, d, e, f, g], [b, c, d, e, f, g]], outputs=[[b, e], [c, d, e, f, g], [a, b, c, d, e, f], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, c, d, f, g], [a, b, c, e], [a, b, d, e, g], [a, b, d, e, f, g], [b, c, d, e, f, g], [a, c, d, e, g], [c, d, e], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [c, e]], outputs=[[a, c, d, e, g], [a, b, c, d, e, f, g], [c, e], [c, d, e]])
+
+Entry(signals=[[a, b, c, d, e, g], [e, f], [a, c, d, e, f, g], [c, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, f], [a, c, d, e, g], [a, c, d, e, f], [a, b, d, e, f, g], [a, e, f]], outputs=[[a, b, c, d, e, g], [a, c, d, e, g], [a, b, d, e, f, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, b, d, f, g], [b, d, e, f, g], [e, f, g], [a, b, c, d, e, f, g], [e, f], [a, b, e, f], [a, c, d, e, f, g], [b, c, d, e, g], [a, b, d, e, f, g], [a, b, c, d, f, g]], outputs=[[a, b, c, d, f, g], [a, b, c, d, f, g], [a, b, d, e, f, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, b, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, e, g], [b, c, d, e, f, g], [b, c, e, f, g], [e, f, g], [a, b, c, d, f, g], [e, f], [c, d, e, f], [b, c, d, f, g]], outputs=[[c, d, e, f], [b, c, e, f, g], [b, c, d, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, c, d, e, f, g], [b, d, e, f, g], [c, e, f], [c, f], [a, b, d, e, f, g], [b, c, d, e, f, g], [a, b, c, e, g], [b, c, d, f], [a, b, c, d, e, f, g], [b, c, e, f, g]], outputs=[[b, d, e, f, g], [b, d, e, f, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g]])
+
+Entry(signals=[[d, e], [a, d, e], [a, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [b, d, e, g], [a, b, c, e, f], [a, b, c, d, e], [a, b, c, d, g], [a, b, c, d, f, g]], outputs=[[a, b, c, d, g], [a, b, c, d, g], [a, b, c, d, g], [a, b, c, d, g]])
+
+Entry(signals=[[b, c, d, f, g], [b, c, d], [c, d], [a, c, d, f], [a, b, c, f, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, f, g], [b, d, e, f, g], [a, b, c, e, f, g]], outputs=[[a, b, c, f, g], [b, c, d, f, g], [b, c, d, f, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[b, d], [a, b, c, d, e, f, g], [c, d, e, f, g], [b, c, d], [a, c, d, e, f, g], [b, d, f, g], [a, b, c, d, e, f], [b, c, d, e, g], [a, b, c, e, g], [b, c, d, e, f, g]], outputs=[[b, c, d], [b, d], [b, d], [c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, c, d, e, g], [a, c, d, f], [a, e, f], [a, c, e, f, g], [b, c, e, f, g], [a, f], [a, c, d, e, f, g], [a, b, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [a, f], [a, c, d, f], [a, c, d, e, g]])
+
+Entry(signals=[[a, b, d, e, f], [a, b, e], [b, e], [a, b, c, d, e, f, g], [a, b, c, d, f, g], [a, b, d, f, g], [a, b, c, e, f, g], [b, d, e, g], [a, c, d, e, f], [a, b, d, e, f, g]], outputs=[[a, b, d, f, g], [a, b, c, d, e, f, g], [a, b, e], [a, b, c, d, f, g]])
+
+Entry(signals=[[b, c, e, f], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [b, c, d, e, g], [b, e], [b, d, e], [c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, g]], outputs=[[b, e], [a, c, d, e, f, g], [a, b, c, d, g], [b, e]])
+
+Entry(signals=[[a, d, e, g], [a, b, c, d, e, f, g], [b, c, d, e, g], [a, g], [a, b, c, e, f], [a, b, c, d, f, g], [a, b, c, d, e, g], [b, c, d, e, f, g], [a, b, c, e, g], [a, b, g]], outputs=[[a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, d, e, g], [b, c, d, e, g]])
+
+Entry(signals=[[b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, g], [a, b, d, f, g], [a, b, c, d, e, f, g], [c, g], [a, c, e, g], [a, b, c, d, e], [c, d, g], [a, b, c, d, e, f]], outputs=[[b, c, d, e, f, g], [a, b, c, d, e, f, g], [c, d, g], [c, g]])
+
+Entry(signals=[[f, g], [b, c, d, e, g], [b, f, g], [a, b, c, d, e, f], [a, b, c, d, f], [a, d, f, g], [a, b, c, e, f, g], [a, b, c, d, f, g], [b, c, d, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, d, f], [b, c, d, e, g], [b, f, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[b, c, e, f, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, d, f, g], [d, e, f], [a, b, c, d, e, f], [b, d, e, f, g], [d, e], [c, d, e, g], [a, b, c, e, f, g]], outputs=[[a, b, c, d, e, f, g], [b, d, e, f, g], [d, e, f], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, f], [a, b, c, d, f, g], [b, e], [b, c, d, e, f, g], [b, c, e], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [a, b, d, e], [a, b, c, e, f], [a, c, e, f, g]], outputs=[[a, b, c, e, f], [b, c, d, e, f, g], [b, c, e], [b, c, e]])
+
+Entry(signals=[[a, b, d], [a, b, e, f], [a, d, e, f, g], [a, b, c, d, f, g], [a, b, d, e, g], [b, c, d, e, g], [a, c, d, e, f, g], [a, b], [a, b, c, d, e, f, g], [a, b, d, e, f, g]], outputs=[[a, b], [a, b, d, e, g], [a, d, e, f, g], [b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, d, f], [a, d], [b, c, d, f, g], [a, b, c, d, e, f], [a, d, f], [a, b, d, e], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, e, f], [a, b, c, e, f, g]], outputs=[[a, b, d, e], [a, b, c, d, e, f, g], [a, d, f], [a, d]])
+
+Entry(signals=[[a, b, e, f, g], [a, b, c, d, e, f, g], [a, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, e, g], [b, c, e, f, g], [a, b, c, e, f, g], [a, b], [a, b, c, f], [a, b, g]], outputs=[[a, b, e, f, g], [a, d, e, f, g], [a, b, c, e, f, g], [a, b, c, f]])
+
+Entry(signals=[[b, c, e, f, g], [d, f], [a, b, c, d, g], [a, b, c, d, f, g], [a, b, d, f], [d, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g], [b, c, d, f, g]], outputs=[[b, c, d, f, g], [a, b, c, d, g], [a, b, c, d, e, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, e, f], [a, c, d, e, f, g], [a, b, c, d, f, g], [a, c, d, e, f], [a, b, d, e, f, g], [b, c, d, e, f], [a, b, c, d, e, f, g], [a, c, d, f, g], [a, e], [a, c, e, g]], outputs=[[a, c, d, e, f], [a, e, f], [a, c, e, g], [a, e]])
+
+Entry(signals=[[a, c, e, g], [a, c, d, e, f, g], [a, b, c, d, f, g], [a, c, d], [b, c, d, e, f, g], [a, c], [c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, d, e, f], [a, c, d, e, f]], outputs=[[a, c, d, e, f], [c, d, e, f, g], [a, b, c, d, f, g], [a, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [c, e], [a, b, c, d, e, g], [b, d, e, f, g], [b, c, d, e, g], [a, b, c, e], [c, e, g], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, g]], outputs=[[a, b, c, e], [a, b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c], [a, c], [a, b, c, d, f, g], [a, b, c, d, e, f, g], [a, b, c, e, f, g], [b, c, d, e, f], [a, b, c, d, f], [a, b, d, e, f, g], [a, b, d, f, g], [a, c, d, g]], outputs=[[b, c, d, e, f], [a, c, d, g], [a, b, c, d, f], [a, c, d, g]])
+
+Entry(signals=[[a, b, c, d, e, g], [a, b, c, d, g], [c, d, e], [d, e], [b, d, e, g], [a, b, c, d, e, f, g], [a, b, c, e, f], [a, b, c, d, f, g], [a, b, c, d, e], [a, c, d, e, f, g]], outputs=[[c, d, e], [d, e], [a, b, c, d, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, d, e, f, g], [a, c, d, e, f, g], [a, f], [a, c, f, g], [a, b, c, d, e, g], [a, d, e, f, g], [a, b, c, d, e, f], [a, d, f], [a, c, d, e, g]], outputs=[[a, b, c, d, e, f], [a, b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, f]])
+
+Entry(signals=[[a, b, f], [a, b, c, d, e, f, g], [a, b, c, e, f, g], [a, b, d, e, g], [a, c, e, f], [a, f], [a, b, c, d, f, g], [a, b, e, f, g], [b, c, d, e, f, g], [b, c, e, f, g]], outputs=[[a, b, c, e, f, g], [a, b, e, f, g], [a, b, d, e, g], [a, b, e, f, g]])
+
+Entry(signals=[[b, d], [a, c, d, f, g], [b, c, e, f, g], [a, b, c, d, e, g], [a, b, c, d, f, g], [a, c, d, e, f, g], [a, b, d, f], [b, d, g], [b, c, d, f, g], [a, b, c, d, e, f, g]], outputs=[[b, c, d, f, g], [b, c, e, f, g], [a, b, c, d, f, g], [b, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c, d, f, g], [c, d, e, f, g], [a, b, c, d, e, f], [a, b, c, e, f, g], [b, c, e, f, g], [a, b, c, e, f], [a, b, e, g], [b, g], [b, c, g]], outputs=[[b, c, g], [c, d, e, f, g], [a, b, c, d, f, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, c], [a, b, c, e, f, g], [a, b, c, g], [a, b, c, e, f], [a, c, f], [a, b, d, e, f], [b, c, e, f, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g]], outputs=[[a, c], [b, c, d, e, f, g], [b, c, e, f, g], [a, b, c, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, c, g], [c, g], [a, b, c, d, e, f], [a, b, c, d, f, g], [a, c, e, g], [b, d, e, f, g], [a, b, c, e, f], [a, b, c, e, f, g], [b, c, e, f, g]], outputs=[[a, b, c, e, f], [a, b, c, d, f, g], [a, b, c, e, f, g], [b, c, e, f, g]])
+
+Entry(signals=[[a, b, c, g], [a, c, d, e, f], [a, b, c, d, f, g], [a, b, d], [b, c, d, f, g], [b, c, d, e, f, g], [a, b, d, e, f, g], [a, b], [a, b, c, d, f], [a, b, c, d, e, f, g]], outputs=[[a, b, d, e, f, g], [a, b, c, g], [a, b, c, d, f, g], [b, c, d, e, f, g]])
+
+Entry(signals=[[a, c, d, e, f, g], [a, d, e, f, g], [b, d, f, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, e, f, g], [a, b, f], [a, b, c, e, g], [a, b, c, d, e, f], [b, f]], outputs=[[b, f], [a, b, f], [a, b, c, e, g], [a, b, e, f, g]])
+
+Entry(signals=[[b, d, e, f, g], [a, b, c, e, f, g], [d, e], [a, b, c, d, e, g], [a, b, e, f, g], [b, c, d, f, g], [b, d, e], [a, b, c, d, e, f, g], [a, d, e, f], [a, b, d, e, f, g]], outputs=[[a, b, e, f, g], [d, e], [b, c, d, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, c, d, f, g], [c, e, g], [a, b, c, d, f, g], [a, b, c, d, e], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [a, c, d, e, g], [b, c, d, e, f, g], [e, g], [a, e, f, g]], outputs=[[a, b, c, d, e, f, g], [a, c, d, e, f, g], [a, c, d, e, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[a, f, g], [b, c, d, e, f, g], [a, b, c, e, f, g], [a, g], [a, b, c, d, e, f, g], [b, c, d, f, g], [a, c, d, e, f], [a, c, d, f, g], [a, b, c, d, f, g], [a, b, d, g]], outputs=[[a, b, c, d, e, f, g], [a, b, c, e, f, g], [a, b, d, g], [b, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [a, d], [a, b, d, f], [a, c, e, f, g], [a, c, d, f, g], [a, d, g], [b, c, d, f, g], [a, b, c, d, e, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, d, f], [a, c, d, f, g], [a, c, d, f, g], [b, c, d, f, g]])
+
+Entry(signals=[[a, d, e, g], [d, g], [a, b, c, e, g], [a, b, c, e, f, g], [a, b, c, d, f, g], [b, c, d, e, g], [b, c, d, e, f], [a, b, c, d, e, f, g], [c, d, g], [a, b, c, d, e, g]], outputs=[[d, g], [a, b, c, e, g], [a, b, c, d, e, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[b, c, d, e, f, g], [a, c, e], [a, b, c, d], [a, c, d, e, f, g], [a, c], [a, b, e, f, g], [b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, e, g]], outputs=[[a, c, e], [a, b, c, d], [a, b, c, d, e, g], [a, b, e, f, g]])
+
+Entry(signals=[[d, f], [b, c, d, e, g], [a, b, c, d, e, g], [a, c, d, e, f, g], [b, c, d, e, f, g], [b, c, d, f], [b, d, e, f, g], [a, b, e, f, g], [a, b, c, d, e, f, g], [d, f, g]], outputs=[[d, f, g], [d, f, g], [b, c, d, e, g], [b, c, d, e, f, g]])
+
+Entry(signals=[[b, c, d, e, f], [b, c, d, e, f, g], [a, b, c, d, e, g], [a, d, e, f, g], [b, g], [a, b, c, d, e, f, g], [b, d, e, f, g], [b, c, f, g], [a, b, c, d, e, f], [b, e, g]], outputs=[[a, d, e, f, g], [a, d, e, f, g], [b, e, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[c, d, f, g], [a, b, c, d, e], [a, b, c, e, f, g], [a, b, d, e, f, g], [a, c, d, e, g], [a, c, g], [a, d, e, f, g], [a, b, c, d, e, f, g], [c, g], [a, c, d, e, f, g]], outputs=[[a, c, g], [a, c, g], [a, b, c, d, e, f, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [a, c, d, e, f], [a, b, c, d, e, g], [a, b, c, d, f], [a, b, c, d, g], [a, b, c, d, e, f, g], [b, f], [b, c, f, g], [a, b, f], [a, b, d, e, f, g]], outputs=[[a, b, c, d, f], [a, b, d, e, f, g], [a, b, f], [a, b, c, d, f]])
+
+Entry(signals=[[b, c, d, e, g], [a, b, c, e, f], [a, b, c, d, e, f, g], [b, c, d, e, f], [a, b, c, e, f, g], [a, b, c, d, e, f], [c, d, f], [a, b, d, f], [a, c, d, e, f, g], [d, f]], outputs=[[c, d, f], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [d, f]])
+
+Entry(signals=[[b, c, e, f, g], [a, b, c, d, f, g], [d, e], [b, c, d, e, g], [a, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, g], [a, b, c, d, e, f, g], [a, b, d, e], [d, e, g]], outputs=[[b, c, d, e, g], [a, b, d, e], [a, b, c, d, e, g], [b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c], [a, c], [a, b, e, f, g], [a, b, c, d, f, g], [a, c, e, g], [a, b, d, e, f, g], [b, c, d, e, f], [a, b, c, e, f], [a, b, c, e, f, g]], outputs=[[a, b, c, d, f, g], [a, b, c, e, f, g], [a, c], [a, b, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, d, f], [a, b, d, e, f, g], [b, c, e, f, g], [a, d, e, f, g], [b, d, e, f, g], [a, c, d, e, f, g], [b, d], [b, d, e]], outputs=[[b, d, e, f, g], [a, c, d, e, f, g], [b, d, e], [b, d]])
+
+Entry(signals=[[a, b, c, d, g], [a, b, c, f, g], [b, c, d, e, f, g], [a, c, d, e], [a, b, d, e, f, g], [b, c, d], [c, d], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, d, e, g]], outputs=[[a, b, d, e, g], [a, b, d, e, g], [a, b, c, d, e, f, g], [a, c, d, e]])
+
+Entry(signals=[[a, c, d, e, f], [a, b, d, e, f, g], [a, c, e, f, g], [a, b, c, e, f, g], [a, b, c, d, e, f, g], [a, b, c, g], [a, f, g], [a, g], [b, c, e, f, g], [b, c, d, e, f, g]], outputs=[[a, b, d, e, f, g], [a, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, g], [a, c, d, e, f, g], [a, b, f], [a, d, e, f, g], [a, b, c, e, f, g], [a, b, d, f, g], [a, b, c, d, e, f, g], [b, d, e, f], [b, f], [a, b, d, e, f, g]], outputs=[[a, b, f], [a, d, e, f, g], [a, b, c, e, f, g], [a, d, e, f, g]])
+
+Entry(signals=[[a, b, c, e], [a, b, f], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b], [b, c, d, e, f], [a, b, c, d, f, g], [a, b, c, d, e, f], [a, b, d, e, f], [a, d, e, f, g]], outputs=[[a, b, f], [a, b], [a, b, f], [a, b, c, d, e, f]])
+
+Entry(signals=[[b, c, d, e, f, g], [b, c, d, e, g], [a, b, c, d, e, f, g], [a, c, d, e, g], [a, b, c, d, e, g], [a, b, c, d], [a, d, e, f, g], [a, c, e], [a, c], [a, b, c, e, f, g]], outputs=[[a, c, d, e, g], [a, b, c, e, f, g], [a, b, c, d], [a, b, c, e, f, g]])
+
+Entry(signals=[[c, f, g], [a, b, c, g], [b, c, d, f, g], [a, c, d, e, f, g], [a, b, d, e, f, g], [a, b, d, f, g], [b, c, d, e, f], [c, g], [a, b, c, d, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, d, f, g], [a, b, c, d, f, g], [b, c, d, e, f], [b, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, c, e, f, g], [b, c, d, e, f, g], [f, g], [a, c, d, e, f], [a, b, c, e, g], [e, f, g], [a, b, f, g], [a, b, c, d, e, g], [a, b, c, e, f, g]], outputs=[[a, c, d, e, f], [a, c, e, f, g], [a, b, c, e, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, e], [a, c, d, e, f, g], [b, e], [a, b, c, d, e, f, g], [b, c, d, f, g], [a, b, d, e, f, g], [a, c, d, e, g], [b, e, g], [b, c, d, e, g], [a, b, c, d, e, g]], outputs=[[b, c, d, e, g], [b, e], [a, b, d, e, f, g], [b, c, d, e, g]])
+
+Entry(signals=[[b, c, d, f, g], [a, b, c, d, e, f, g], [a, b, d, f, g], [c, f, g], [a, b, c, g], [b, c, d, e, f], [c, g], [a, c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d, f, g]], outputs=[[a, b, d, e, f, g], [a, b, d, f, g], [a, b, c, d, e, f, g], [c, g]])
+
+Entry(signals=[[a, c, d, e, g], [a, b, c, d, e, f, g], [b, c, d, e, f], [b, c, d, e, f, g], [a, b, d, f], [a, b, c, d, e, f], [a, b, c, e, f, g], [a, c, d, e, f], [a, c, f], [a, f]], outputs=[[a, b, d, f], [b, c, d, e, f], [a, b, c, d, e, f, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, b, c, e, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g], [d, g], [c, d, f, g], [d, e, g], [a, c, d, e, g], [a, b, c, d, e, f], [a, c, d, e, f], [a, b, d, e, f, g]], outputs=[[a, b, d, e, f, g], [a, c, d, e, f, g], [d, e, g], [d, g]])
+
+Entry(signals=[[b, c, d, f, g], [a, b, c, e, f, g], [c, d, e, f, g], [a, b, d, e, f, g], [a, c, d, e], [a, b, c, d, e, f, g], [a, c, d, e, f, g], [d, e], [d, e, f], [a, c, e, f, g]], outputs=[[a, c, d, e], [a, b, c, e, f, g], [c, d, e, f, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, c, d, f, g], [a, b, c, d, e, f, g], [a, b, c, e, f, g], [a, c, g], [a, b, d, f, g], [a, c], [a, b, c, d, f, g], [c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d]], outputs=[[a, c, d, f, g], [a, b, c, d, e, f, g], [c, d, e, f, g], [a, c]])
+
+Entry(signals=[[a, b, e], [a, b, c, d, f, g], [a, b, d, e, f, g], [b, e], [a, c, d, e, f], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, d, e, f], [a, b, d, f, g], [b, e, f, g]], outputs=[[a, b, c, d, e, g], [a, b, e], [b, e], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, c, d, e, f, g], [a, b, c, d, f, g], [a, b, c, d, e, f], [a, b, c, e, f], [e, f], [a, b, c, e, g], [c, e, f], [b, d, e, f], [a, b, c, d, f]], outputs=[[a, b, c, d, e, f], [a, b, c, e, f], [a, b, c, d, f], [e, f]])
+
+Entry(signals=[[a, c, e, f, g], [a, b, d, e, g], [b, f], [a, b, d, e, f, g], [a, b, d, f], [b, e, f], [a, b, c, d, e, f, g], [a, b, e, f, g], [b, c, d, e, f, g], [a, b, c, d, e, g]], outputs=[[a, b, e, f, g], [a, c, e, f, g], [a, b, d, e, g], [a, b, d, f]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c, f, g], [c, d], [b, c, d, f, g], [a, b, d, e, f, g], [b, c, d, e], [c, d, f], [b, d, e, f, g], [a, c, d, e, f, g], [b, c, d, e, f, g]], outputs=[[b, c, d, e], [a, b, c, f, g], [c, d], [a, b, c, f, g]])
+
+Entry(signals=[[a, c, d, e, f, g], [d, g], [a, b, c, d, e, f, g], [b, c, d, e, f], [b, d, f, g], [b, c, d, e, g], [a, b, c, d, e, f], [a, b, c, e, g], [b, c, d, e, f, g], [d, e, g]], outputs=[[a, b, c, d, e, f, g], [d, g], [a, b, c, d, e, f, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, d, e, f, g], [a, b, c, f, g], [a, c, d], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, c, d, e, f, g], [c, d, e, f], [a, b, d, e, f, g], [a, c, d, f, g], [c, d]], outputs=[[a, b, c, d, e, g], [a, b, c, d, e, g], [a, c, d, e, f, g], [a, c, d, f, g]])
+
+Entry(signals=[[b, f], [a, b, c, d, f], [a, b, f, g], [a, c, d, f, g], [b, c, f], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, f, g], [a, c, d, e, f, g], [a, b, c, d, e]], outputs=[[a, b, c, d, e], [b, f], [a, c, d, e, f, g], [a, b, c, d, e]])
+
+Entry(signals=[[a, b, d, e], [a, b, c, d, f], [a, b, c, d, f, g], [b, c, d, e, f], [c, d, e, f, g], [b, c, e], [a, b, c, d, e, f, g], [a, b, c, e, f, g], [b, e], [a, b, c, d, e, f]], outputs=[[b, e], [a, b, c, d, e, f, g], [a, b, c, d, f], [c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [f, g], [a, c, d, e, f], [a, d, e, f, g], [a, b, f, g], [b, c, d, e, f, g], [a, b, d, e, g], [d, f, g], [a, b, d, e, f, g], [a, b, c, d, e, g]], outputs=[[a, b, c, d, e, g], [a, d, e, f, g], [a, c, d, e, f], [a, b, d, e, g]])
+
+Entry(signals=[[a, b, c, d, e, g], [a, c, d, e, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, e, f, g], [a, c, d, f, g], [a, b, d, e, g], [b, c, d, e], [c, e], [c, e, g]], outputs=[[a, b, c, e, f, g], [c, e, g], [c, e], [a, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [a, c, d, e, f], [a, b, d, e, f, g], [a, b], [b, c, d, f, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, f], [a, b, c, g], [a, b, d]], outputs=[[a, b, d, e, f, g], [a, b, c, d, f, g], [a, c, d, e, f], [a, b]])
+
+Entry(signals=[[b, d, e, f, g], [b, c, d], [a, b, c, d, f, g], [a, b, c, e, f, g], [a, c, d, f], [a, b, c, d, e, g], [b, c, d, f, g], [a, b, c, f, g], [c, d], [a, b, c, d, e, f, g]], outputs=[[a, c, d, f], [a, b, c, d, f, g], [c, d], [b, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, g], [a, b, c, d, e, f], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, c, e, f], [a, b, d, e, f], [a, b, c, d, e], [b, c, d, e, f, g], [b, c, e], [c, e]], outputs=[[a, b, c, d, g], [a, b, c, d, g], [b, c, d, e, f, g], [c, e]])
+
+Entry(signals=[[a, d, e, f], [a, b, c, f, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, d, f, g], [a, b, d, e, g], [a, b, c, d, e, g], [b, d, f], [d, f], [a, b, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [a, b, d, e, g], [d, f], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, c, e, f], [b, c, d, e, g], [a, b, c, d, f], [a, b, d, e, f, g], [a, b, c, d, f, g], [a, b, c, d, e, f], [d, e, f], [b, c, d, e, f], [e, f], [a, b, c, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [d, e, f], [a, b, c, d, e, f], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, g], [a, c, d, e, f, g], [a, b, c, f, g], [a, b, d, e, f, g], [b, d, e, f], [a, b, d, f, g], [a, d, e, f, g], [b, d], [a, b, c, d, e, f, g], [a, b, d]], outputs=[[a, c, d, e, f, g], [a, c, d, e, f, g], [a, d, e, f, g], [b, d, e, f]])
+
+Entry(signals=[[a, c, d, e, f, g], [a, c, e, f, g], [c, d, e, f], [c, e], [a, c, e], [a, d, e, f, g], [a, b, c, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g]], outputs=[[a, c, e], [a, b, c, f, g], [a, b, d, e, f, g], [a, b, c, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f], [b, g], [a, b, e, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, e, f], [a, b, c, e, f, g], [a, b, c, f, g], [b, f, g], [a, c, d, f, g]], outputs=[[a, b, c, d, e, f], [a, b, c, e, f], [a, b, c, f, g], [a, b, e, g]])
+
+Entry(signals=[[c, d, e, f, g], [a, b, c, e, g], [a, c, d, e, f, g], [b, c, d, e, f, g], [a, b, d, e, f, g], [b, d], [b, c, d, e, g], [b, c, d, f], [b, d, e], [a, b, c, d, e, f, g]], outputs=[[c, d, e, f, g], [c, d, e, f, g], [a, b, c, e, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[c, e], [a, b, d, e, f, g], [a, c, d, e, f], [a, c, e, g], [a, b, c, d, f], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [c, d, e], [a, c, d, e, f, g], [a, d, e, f, g]], outputs=[[a, c, e, g], [c, e], [b, c, d, e, f, g], [a, b, c, d, f]])
+
+Entry(signals=[[a, c, d, e, f], [c, e, f], [a, b, c, d, e, f, g], [a, b, c, d, f, g], [a, b, c, e], [c, e], [a, b, c, d, f], [a, b, c, d, e, f], [a, d, e, f, g], [b, c, d, e, f, g]], outputs=[[a, b, c, d, f, g], [a, b, c, d, f], [a, b, c, e], [a, b, c, d, f, g]])
+
+Entry(signals=[[b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [c, f], [a, c, d, e, f, g], [b, c, e, f, g], [c, f, g], [b, c, d, f], [b, c, d, e, g], [a, b, e, f, g]], outputs=[[c, f], [b, c, e, f, g], [b, c, d, e, f, g], [b, c, d, e, f, g]])
+
+Entry(signals=[[a, c, e, f, g], [a, b, d, g], [a, b, c, d, e, f], [b, c, d, e, f, g], [b, f, g], [a, b, c, d, e, f, g], [a, b, c, d, f, g], [b, g], [a, b, c, f, g], [a, b, c, d, f]], outputs=[[b, c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, f], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, d, e, f, g], [a, b, d, f, g], [a, d, e, f], [a, b, e], [a, b, c, d, f, g], [b, c, d, e, g], [a, b, c, e, f, g], [a, b, d, e, g], [a, e], [a, b, c, d, e, f, g]], outputs=[[a, b, d, e, f, g], [a, b, d, f, g], [a, b, d, e, g], [a, e]])
+
+Entry(signals=[[c, e], [a, b, c, d, e, f, g], [a, b, c, d, g], [b, c, d, e], [a, b, e, f, g], [a, c, e], [a, b, c, e, g], [a, b, c, d, f, g], [a, b, c, d, e, g], [a, c, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [a, c, d, e, f, g], [a, b, e, f, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[b, d, e, f, g], [b, g], [a, b, c, d, e, f], [b, d, g], [a, b, c, d, e, f, g], [a, b, d, e, f], [c, d, e, f, g], [a, b, e, g], [a, b, d, e, f, g], [a, b, c, d, f, g]], outputs=[[a, b, d, e, f, g], [c, d, e, f, g], [b, d, e, f, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[c, d, e, f, g], [a, b, c, d, e, f], [a, e, f, g], [a, b, c, d, f, g], [a, c, d, e, f], [a, c, d, e, f, g], [a, b, c, d, e, f, g], [f, g], [d, f, g], [b, c, d, e, g]], outputs=[[a, b, c, d, e, f], [d, f, g], [a, c, d, e, f], [f, g]])
+
+Entry(signals=[[b, c, d, e, f, g], [b, d, e, f], [a, c, d, e, g], [b, d], [b, c, e, f, g], [a, b, c, d, f, g], [a, b, c, d, e, f, g], [b, c, d, e, g], [a, b, c, e, f, g], [b, d, g]], outputs=[[a, b, c, d, f, g], [b, c, d, e, f, g], [b, c, e, f, g], [b, d, e, f]])
+
+Entry(signals=[[a, b, c, d, e, g], [a, b, c, d, f, g], [c, d, f], [c, d, e, f, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [b, c, d, e, g], [d, f], [b, d, e, f], [a, c, e, f, g]], outputs=[[d, f], [a, b, c, d, e, g], [b, c, d, e, g], [d, f]])
+
+Entry(signals=[[a, b, c, d, e, f], [e, g], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, c, e, f, g], [a, b, c, e, f, g], [c, e, g], [a, b, c, e, f], [a, c, d, f, g], [b, e, f, g]], outputs=[[b, e, f, g], [c, e, g], [e, g], [e, g]])
+
+Entry(signals=[[b, c, d, e, g], [b, c, e], [a, b, c, e, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [c, e], [b, c, d, f, g], [a, b, d, e, g], [a, c, d, e]], outputs=[[b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, c, e, f, g], [b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [a, c, d, e, f], [d, e, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [b, c, d, f, g], [b, c, e, g], [e, g], [c, d, e, f, g], [a, b, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [b, c, d, f, g], [c, d, e, f, g], [b, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, e], [a, b, c, d, e, f, g], [d, g], [a, b, c, d, f, g], [b, c, d, e, g], [c, d, g], [b, c, e, f, g], [a, b, c, d, e, f], [a, d, e, g], [a, b, c, d, e, g]], outputs=[[a, d, e, g], [b, c, e, f, g], [c, d, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, c, d, e, f, g], [a, b, c, d, f, g], [a, b, d, e, f, g], [c, d, e, f, g], [c, d, g], [b, c, e, f, g], [a, c, d, e], [a, d, e, f, g], [c, d], [a, b, c, d, e, f, g]], outputs=[[b, c, e, f, g], [a, b, c, d, f, g], [b, c, e, f, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[a, c, d, e, f], [a, b, c, d, e, f, g], [d, g], [b, c, d, e, f, g], [a, b, c, e, f, g], [a, b, c, e, g], [a, c, d, e, g], [a, b, d, g], [d, e, g], [a, b, c, d, e, g]], outputs=[[a, b, c, e, g], [b, c, d, e, f, g], [a, b, c, d, e, g], [d, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, d, g], [d, g], [a, c, d, g], [b, c, d, e, f, g], [a, b, e, f, g], [a, b, c, d, e, f], [a, b, c, d, f, g], [a, b, d, f, g], [a, b, c, d, f]], outputs=[[b, d, g], [a, b, e, f, g], [b, c, d, e, f, g], [a, b, e, f, g]])
+
+Entry(signals=[[a, c, e, f, g], [a, c, d, e, f, g], [a, b, c, d, f, g], [c, d, e, f], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [c, f, g], [a, b, e, f, g], [a, c, d, e, g], [c, f]], outputs=[[c, f, g], [a, b, c, d, e, g], [c, d, e, f], [c, d, e, f]])
+
+Entry(signals=[[a, b, c, e, f, g], [a, b, c, d, e, g], [c, e, g], [a, d, e, g], [a, b, c, d, g], [b, c, d, e, g], [e, g], [b, c, d, e, f], [a, b, c, d, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, d, f, g], [e, g], [a, b, c, d, f, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[c, d, e], [a, b, c, d, e, f, g], [a, c, d, e, f, g], [a, c, d, e, f], [a, c, d, g], [a, b, c, e, f, g], [a, b, d, e, f], [c, d], [b, c, d, e, f, g], [a, c, e, f, g]], outputs=[[a, b, c, d, e, f, g], [c, d], [a, c, d, e, f, g], [b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, d, e, f, g], [c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, e, f, g], [b, c, e], [a, b, c, d], [a, b, d, e, g], [b, c], [b, c, d, e, g]], outputs=[[a, b, c, e, f, g], [c, d, e, f, g], [b, c, d, e, g], [b, c]])
+
+Entry(signals=[[c, d, g], [a, b, c, d, f, g], [a, b, d, e, f, g], [a, b, d, f, g], [c, d], [a, b, c, d, e, g], [a, c, e, f, g], [a, b, c, d, e, f, g], [a, c, d, f, g], [b, c, d, f]], outputs=[[a, b, c, d, f, g], [a, b, c, d, e, g], [a, b, d, e, f, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, c, d, e, g], [b, c], [a, b, d, e, g], [a, c, d, e, f, g], [b, c, e, f], [c, d, e, f, g], [b, c, d], [a, b, c, d, f, g], [b, c, d, e, f, g]], outputs=[[a, c, d, e, f, g], [b, c, d, e, f, g], [b, c, e, f], [a, b, d, e, g]])
+
+Entry(signals=[[a, c, g], [a, c, d, e, f, g], [a, g], [a, b, c, d, e, f, g], [a, b, c, d, e, f], [a, b, c, d, g], [a, b, f, g], [a, b, c, d, f], [b, c, d, e, g], [a, b, c, d, f, g]], outputs=[[a, b, c, d, g], [a, c, g], [a, b, c, d, f, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[b, d, e], [a, b, c, e], [a, b, c, d, f, g], [b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, g], [c, d, e, f, g], [a, b, d, e, f, g], [b, e]], outputs=[[a, b, c, e], [a, b, c, d, f, g], [c, d, e, f, g], [b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, f], [a, b, f], [b, c, d, f], [a, b, c, d, f, g], [a, b, c, d, g], [a, b, c, d, e, g], [a, b, d, f, g], [a, b, c, e, f, g], [a, d, e, f, g]], outputs=[[b, f], [a, b, c, e, f, g], [a, b, c, d, g], [a, b, c, d, e, g]])
+
+Entry(signals=[[b, f], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [b, d, f, g], [a, b, c, d, e, f], [a, b, c, d, e, g], [b, e, f], [a, c, e, f, g], [b, c, d, e, g], [b, c, e, f, g]], outputs=[[b, c, d, e, g], [b, d, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f]])
+
+Entry(signals=[[a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, c, e, g], [b, f], [a, b, e, f], [c, d, e, f, g], [a, b, c, d, f, g], [b, c, e, f, g], [b, f, g], [a, b, c, e, f, g]], outputs=[[a, b, c, e, g], [a, b, c, d, e, g], [a, b, c, d, e, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[c, d, e, f, g], [a, b, c, e, f, g], [a, b, c, d, f, g], [a, d, e, f, g], [a, b, d, e], [a, e], [a, b, d, e, f, g], [a, e, g], [a, b, d, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, d, f, g], [a, b, c, e, f, g], [a, e, g], [a, d, e, f, g]])
+
+Entry(signals=[[a, b, c, f], [a, b, c, d, e, g], [c, d, e, f, g], [a, c, d, e, f], [a, c], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d, e, f], [a, c, e], [a, b, d, e, f]], outputs=[[a, b, c, d, e, f], [a, b, d, e, f, g], [a, c, d, e, f], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, b, d, e, g], [b, c, d, e, f, g], [a, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, f, g], [a, c, d, e, f], [a, b, d, e, f, g], [d, f, g], [f, g]], outputs=[[f, g], [a, b, d, e, f, g], [a, b, d, e, g], [d, f, g]])
+
+Entry(signals=[[b, c, d, f, g], [b, c, d, e, f, g], [a, b, c, d, e, g], [b, c, e], [a, b, c, d, f, g], [b, c, d, e, f], [c, e], [c, e, f, g], [a, b, d, e, f], [a, b, c, d, e, f, g]], outputs=[[b, c, d, e, f, g], [a, b, d, e, f], [c, e], [a, b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, f, g], [a, b, d, e, f, g], [b, d, e, f, g], [b, c, d, e, f, g], [a, b, e, f, g], [a, e], [a, b, d, e], [a, b, c, d, e, f, g], [a, e, f], [a, c, d, e, f, g]], outputs=[[a, e], [b, c, d, e, f, g], [a, e, f], [a, b, e, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [a, b, d, f, g], [b, c, d, f, g], [a, b, c, d, e, f, g], [a, b, c, f], [b, c, d], [a, b, d, e, f, g], [a, b, c, d, e, g], [c, d, e, f, g], [b, c]], outputs=[[b, c, d, f, g], [a, b, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, e, f, g], [f, g], [a, b, c, e, g], [a, e, f, g], [b, c, d, e, f], [b, c, e, f, g], [a, b, c, d, f, g], [c, f, g]], outputs=[[a, e, f, g], [b, c, d, e, f], [a, b, c, d, f, g], [f, g]])
+
+Entry(signals=[[b, c, d, e, f, g], [b, e, f], [b, c, d, f], [a, c, e, f, g], [b, c, e, f, g], [a, b, c, d, e, g], [b, f], [a, b, d, e, f, g], [a, b, c, d, e, f, g], [b, c, d, e, g]], outputs=[[b, f], [a, c, e, f, g], [b, c, d, e, g], [b, c, d, e, g]])
+
+Entry(signals=[[a, b, c, e, f, g], [c, d, e, f, g], [a, b, c, e, f], [b, c, d], [a, b, d, e], [a, b, c, d, e, f], [a, b, c, d, f, g], [b, d], [a, b, c, d, e, f, g], [b, c, d, e, f]], outputs=[[a, b, d, e], [c, d, e, f, g], [b, c, d], [b, c, d, e, f]])
+
+Entry(signals=[[a, c, g], [a, c], [a, d, e, f, g], [b, c, d, f, g], [a, b, c, d, e, f, g], [a, c, e, f], [a, b, c, d, e, g], [a, c, d, f, g], [a, c, d, e, f, g], [a, b, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [a, c, d, e, f, g], [a, d, e, f, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[c, d, f], [c, d, e, g], [c, d], [b, c, d, e, f, g], [b, d, e, f, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [b, c, d, e, f], [a, b, c, d, f, g], [a, b, c, e, f]], outputs=[[b, c, d, e, f, g], [a, b, c, d, f, g], [b, c, d, e, f], [b, c, d, e, f]])
+
+Entry(signals=[[b, c, d, e, f], [a, b, d, e, g], [a, b, d, e, f], [a, b, c, d, e, g], [a, b, d, e, f, g], [a, b, f], [a, d, f, g], [a, f], [a, b, c, d, e, f, g], [a, b, c, e, f, g]], outputs=[[a, b, d, e, f], [a, b, d, e, f], [a, b, c, d, e, f, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, b, e, g], [a, b, d, e, f], [b, c, d, e, f, g], [a, d, e, f, g], [a, c, d, e, f, g], [a, b, d, e, f, g], [a, b, c, d, f], [b, e], [a, b, c, d, e, f, g], [b, d, e]], outputs=[[a, b, c, d, f], [b, e], [b, c, d, e, f, g], [b, c, d, e, f, g]])
+
+Entry(signals=[[a, c, d, e, g], [a, b, c, d, f, g], [a, b, c, e, g], [a, b, e, f], [b, c, e, f, g], [b, c, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, e, f, g], [a, b, g], [a, b]], outputs=[[a, b, c, e, g], [a, b, c, e, f, g], [a, b, c, e, f, g], [b, c, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f], [b, c, d, e, g], [a, b, e], [a, b, c, d, e, f, g], [a, b, c, d, f, g], [a, e], [a, b, d, e, f, g], [a, b, c, d, f], [a, c, e, f], [a, b, c, d, e]], outputs=[[a, b, e], [a, b, d, e, f, g], [b, c, d, e, g], [a, e]])
+
+Entry(signals=[[a, b, c, e, f, g], [a, c, d, e, f, g], [a, d, e, f, g], [c, d, e, f, g], [b, c, d, f, g], [c, e, g], [a, c, d, e], [a, b, d, e, f, g], [a, b, c, d, e, f, g], [c, e]], outputs=[[c, e], [a, b, d, e, f, g], [b, c, d, f, g], [b, c, d, f, g]])
+
+Entry(signals=[[a, b, f, g], [a, b, d, e, f], [a, b, d], [b, c, d, e, f, g], [a, b, c, d, e, g], [a, b, c, d, e, f, g], [a, c, d, e, f], [a, b, d, e, f, g], [b, d, e, f, g], [a, b]], outputs=[[a, b, d], [a, b, d, e, f], [a, c, d, e, f], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f, g], [b, c, d, e, f], [a, b, c, e, f], [a, b], [a, b, c, d, f, g], [a, b, c], [a, b, e, g], [a, b, c, e, f, g], [a, c, e, f, g], [a, c, d, e, f, g]], outputs=[[a, b, e, g], [a, c, d, e, f, g], [a, b, c, d, f, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[a, b, c, f], [a, c, d, e, f], [a, b, c, d, e, f, g], [b, c, d], [a, b, d, e, g], [a, b, c, d, e, f], [b, c, d, e, f, g], [b, c], [a, c, d, e, f, g], [a, b, c, d, e]], outputs=[[b, c, d], [b, c, d], [a, c, d, e, f], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, d, e, f], [f, g], [a, b, d, e, f], [b, f, g], [a, d, f, g], [b, c, d, e, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g], [b, d, e, f, g], [a, b, c, e, f, g]], outputs=[[b, f, g], [a, b, d, e, f, g], [a, b, d, e, f], [f, g]])
+
+Entry(signals=[[a, b, c, d, e, g], [a, b, c, d, e], [a, b, c, d, g], [d, g], [a, b, c, d, e, f], [a, b, d, e, f, g], [a, b, c, d, e, f, g], [a, b, c, f, g], [c, d, e, g], [b, d, g]], outputs=[[a, b, c, d, g], [a, b, c, d, e, g], [a, b, c, d, e, f], [c, d, e, g]])
+
+Entry(signals=[[a, c, e, f, g], [a, c, d, e, f, g], [a, b, c, e, f, g], [a, b, c, f, g], [a, b, f], [a, b, c, d, g], [a, b, c, d, e, f, g], [b, f], [b, e, f, g], [a, b, c, d, e, f]], outputs=[[a, b, c, e, f, g], [a, b, c, e, f, g], [a, b, c, e, f, g], [b, e, f, g]])
+
+Entry(signals=[[b, c, d, e, g], [d, g], [b, c, d, e, f], [a, b, c, d, f, g], [c, d, g], [a, b, c, d, e, f], [a, b, c, e, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [d, e, f, g]], outputs=[[b, c, d, e, g], [b, c, d, e, f, g], [d, g], [d, g]])
+
+Entry(signals=[[b, c, d, e], [a, b, c, e, f, g], [b, c, e, f, g], [a, b, c, d, f, g], [c, d, f], [c, d, e, f, g], [a, d, e, f, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [c, d]], outputs=[[b, c, e, f, g], [b, c, e, f, g], [a, b, c, e, f, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[a, b], [a, b, c, e], [b, d, e, f, g], [a, b, c, d, e, g], [a, b, d, e, g], [a, b, c, d, e, f, g], [a, b, c, d, f, g], [a, b, g], [a, c, d, e, f, g], [a, c, d, e, g]], outputs=[[a, b, c, d, e, f, g], [a, b, c, d, f, g], [a, b, c, e], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, e], [a, b, d, f, g], [a, b, c, e, f, g], [a, e, g], [a, b, d, e, g], [a, b, c, d, e, f, g], [a, b, c, d, e, g], [b, c, d, e, g], [b, c, d, e, f, g], [a, c, d, e]], outputs=[[a, c, d, e], [a, b, d, e, g], [b, c, d, e, f, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[a, c, d, e, f, g], [e, f], [b, c, d, e, f, g], [b, e, f, g], [a, b, c, d, e], [a, b, c, d, e, f, g], [c, e, f], [a, b, c, d, f, g], [b, c, d, e, f], [b, c, d, f, g]], outputs=[[e, f], [c, e, f], [b, c, d, e, f, g], [b, c, d, e, f, g]])
+
+Entry(signals=[[b, c, d, e, f, g], [a, b, c, f, g], [b, e, g], [a, b, d, e], [a, b, d, e, f, g], [a, b, e, f, g], [a, b, c, d, e, f, g], [b, e], [a, d, e, f, g], [a, c, d, e, f, g]], outputs=[[b, c, d, e, f, g], [a, c, d, e, f, g], [a, b, c, f, g], [b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, c, e, f], [a, b, c, d, f, g], [b, c, d, g], [a, b, c, d, e, f, g], [a, b, d, f, g], [a, b, c, f, g], [a, b, d, e, f, g], [a, c, d, e, f, g], [c, g], [a, c, g]], outputs=[[a, b, d, e, f, g], [a, b, c, f, g], [a, b, d, f, g], [a, c, g]])
+
+Entry(signals=[[a, c, d, e, f, g], [b, e], [c, d, e, f, g], [a, b, c, d, e, f, g], [b, c, e, g], [b, d, e], [a, b, c, d, e, f], [a, b, d, f, g], [b, c, d, e, f, g], [b, d, e, f, g]], outputs=[[b, c, d, e, f, g], [b, c, d, e, f, g], [c, d, e, f, g], [b, c, e, g]])
+
+Entry(signals=[[a, c, d, e, f, g], [a, b, c, e, f, g], [a, b, d, e, f, g], [a, c, e, f, g], [b, c, d, e, g], [a, d], [a, c, d, f], [a, b, c, d, e, f, g], [a, d, e], [a, c, d, e, g]], outputs=[[a, b, c, e, f, g], [a, b, c, e, f, g], [a, b, c, d, e, f, g], [a, b, d, e, f, g]])
+
+Entry(signals=[[a, e], [a, c, d, e, f, g], [a, b, c, d, f, g], [a, b, e, g], [a, b, c, f, g], [a, b, c, e, f], [b, c, d, e, f], [a, c, e], [a, b, c, e, f, g], [a, b, c, d, e, f, g]], outputs=[[a, b, c, e, f, g], [a, b, c, e, f, g], [a, b, c, d, e, f, g], [a, b, c, e, f, g]])
+
+Entry(signals=[[a, b, c, d, f, g], [b, c, e, f, g], [c, d, g], [a, b, c, d, e, f, g], [a, b, c, d, e], [d, g], [a, d, e, g], [b, c, d, e, g], [a, b, c, d, e, f], [a, b, c, d, e, g]], outputs=[[a, b, c, d, f, g], [d, g], [b, c, e, f, g], [d, g]])
+
+Entry(signals=[[a, b, c, e, f, g], [a, b, c, d, e, f, g], [b, c, d, e, f, g], [b, c, d, e, f], [a, b, c, d, e, f], [c, d, e, f, g], [a, d, e, f, g], [c, f, g], [c, g], [b, c, d, g]], outputs=[[c, f, g], [b, c, d, e, f, g], [b, c, d, e, f], [a, b, c, e, f, g]])
+
+Entry(signals=[[a, b, d, e, f, g], [b, c, d, e, f, g], [a, b, c, e, g], [a, b, d, f, g], [a, b, c, d, e, f, g], [a, c, d, f], [a, b, c, d, f, g], [b, c, d], [a, b, c, d, g], [c, d]], outputs=[[a, b, d, e, f, g], [a, b, d, f, g], [b, c, d], [a, b, c, d, f, g]])
+
+Entry(signals=[[b, c, d, f, g], [a, b, c, d, e, f, g], [a, d, e, g], [a, b, d, f, g], [a, d], [a, b, c, d, e, f], [a, b, c, e, f, g], [a, d, f], [a, b, e, f, g], [a, b, d, e, f, g]], outputs=[[a, b, c, d, e, f, g], [a, b, e, f, g], [a, b, d, f, g], [a, b, c, d, e, f, g]])
+
+Entry(signals=[[a, b, d, e, g], [a, c, d, e, f], [a, b, c, e, f, g], [a, b, c, d, e, f, g], [a, c, d, e, g], [c, e, g], [c, g], [a, b, c, d, e, g], [a, b, d, e, f, g], [b, c, d, g]], outputs=[[b, c, d, g], [a, b, c, d, e, g], [a, b, d, e, g], [a, c, d, e, g]])
