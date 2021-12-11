@@ -4,15 +4,15 @@ import cz.maio.ResourcesUtils.resourceLines
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 
-typealias Position3 = Pair<Int, Int>
+typealias PositionXY = Pair<Int, Int>
 
-val Position3.up get() = first to second - 1
-val Position3.down get() = first to second + 1
-val Position3.left get() = first - 1 to second
-val Position3.right get() = first + 1 to second
-val Position3.neighbours get() = setOf(up, down, left, right)
+val PositionXY.up get() = first to second - 1
+val PositionXY.down get() = first to second + 1
+val PositionXY.left get() = first - 1 to second
+val PositionXY.right get() = first + 1 to second
+val PositionXY.neighboursUpDownLeftRight get() = setOf(up, down, left, right)
 
-fun Map<Position3, Int>.minAround(p: Position3) = listOfNotNull(
+fun Map<PositionXY, Int>.minAround(p: PositionXY) = listOfNotNull(
     get(p.up), get(p.down),
     get(p.left), get(p.right),
 ).min()
@@ -46,7 +46,7 @@ class Day09Test {
     }
 }
 
-private fun Map<Position3, Int>.basinOf(position: Position3): Set<Position3> {
+private fun Map<PositionXY, Int>.basinOf(position: PositionXY): Set<PositionXY> {
     val heightmap = this
     var originalBasin = setOf(position)
     var newBasin = originalBasin
@@ -54,7 +54,7 @@ private fun Map<Position3, Int>.basinOf(position: Position3): Set<Position3> {
     do {
         originalBasin = newBasin
         newBasin = originalBasin.flatMap {
-            it.neighbours.filter { position ->
+            it.neighboursUpDownLeftRight.filter { position ->
                 (heightmap[position] ?: 9) < 9
             }
         }.toSet() + originalBasin
